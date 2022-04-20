@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Soy fuerte</string>
+    <string name="affirmation2">Creo en mí</string>
+    <string name="affirmation3">Despacito y con buena letra</string>
+    <string name="affirmation4">Lo estoy haciendo lo mejor que sé</string>
+    <string name="affirmation5">Soy más capaz de lo que creo</string>
+    <string name="affirmation6">Me respeto, me acepto, me cuido</string>
+    <string name="affirmation7">Todo irá bien</string>
+    <string name="affirmation8">Estoy presente en este momento</string>
+    <string name="affirmation9">Solo respira</string>
+    <string name="affirmation10">Me tengo a mí misma</string>
+</resources>
